@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://camille.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-13T11:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://camille.github.io/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-08-13T11:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://camille.github.io/posts/tarot/how-to-read-cards/</loc>
+    <loc>http://localhost:1313/posts/tarot/how-to-read-cards/</loc>
     <lastmod>2024-08-13T11:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://camille.github.io/posts/resume/</loc>
+    <loc>http://localhost:1313/posts/resume/</loc>
     <lastmod>2024-08-13T11:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://camille.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-13T11:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://camille.github.io/posts/myy/</loc>
+    <loc>http://localhost:1313/posts/myy/</loc>
     <lastmod>2024-08-13T11:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://camille.github.io/about/resume/</loc>
+    <loc>http://localhost:1313/about/resume/</loc>
   </url><url>
-    <loc>https://camille.github.io/posts/musics/</loc>
+    <loc>http://localhost:1313/posts/musics/</loc>
   </url><url>
-    <loc>https://camille.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://camille.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://camille.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
