@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Camile&#39;s Page</title>
+    <link>https://camille.github.io/posts/</link>
+    <description>Recent content in Posts on Camile&#39;s Page</description>
+    <generator>Hugo -- 0.132.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Aug 2024 11:48:04 +0800</lastBuildDate>
+    <atom:link href="https://camille.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the fuck does this work</title>
+      <link>https://camille.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 13 Aug 2024 11:48:04 +0800</pubDate>
+      <guid>https://camille.github.io/posts/my-first-post/</guid>
+      <description>简介 别担心很快就解决了！！ Genius！！ 这是两个我在用的网页：https://www.sulvblog.cn/posts/blog/build_hugo/ https://kyxie.github.io/zh/blog/tech/papermod/#configyml</description>
+    </item>
+    <item>
+      <title>How the fuck does this work</title>
+      <link>https://camille.github.io/posts/tarot/how-to-read-cards/</link>
+      <pubDate>Tue, 13 Aug 2024 11:48:04 +0800</pubDate>
+      <guid>https://camille.github.io/posts/tarot/how-to-read-cards/</guid>
+      <description>简介 别担心很快就解决了！！ Genius！！ 这是两个我在用的网页：https://www.sulvblog.cn/posts/blog/build_hugo/ https://kyxie.github.io/zh/blog/tech/papermod/#configyml</description>
+    </item>
+    <item>
+      <title>ooo</title>
+      <link>https://camille.github.io/posts/resume/</link>
+      <pubDate>Tue, 13 Aug 2024 11:48:04 +0800</pubDate>
+      <guid>https://camille.github.io/posts/resume/</guid>
+      <description>简介 </description>
+    </item>
+    <item>
+      <title>直接新建好像也可以</title>
+      <link>https://camille.github.io/posts/myy/</link>
+      <pubDate>Tue, 13 Aug 2024 11:48:04 +0800</pubDate>
+      <guid>https://camille.github.io/posts/myy/</guid>
+      <description>简介 怎么建立独立网站啊 </description>
+    </item>
+  </channel>
+</rss>
